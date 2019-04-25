@@ -25,6 +25,7 @@ instruct to drop the ICMP packet and create a C programming DoS software.
 # Third Assignment (Network Manager) / (SMTP prgramming)
 
 //Network Manager
+
 Hei how do i get my server status remotely?. The answer is by giving the SNMP packet .
 Read it and analyse it base on OID.
 Our third assignment is to create SNMP Agent and Manger by coding it in Java and C
@@ -34,6 +35,7 @@ Another cross platform programming ! oh yeah!
 
 
 //SMTP programming
+
 In the good days spark of  internet. I want to send an email , can you bring the legacy way pliss.
 Our third assignment is to create and send an Mail using SMTP programming in JAVA and C. We need to use port 25 
 as our conversation. Create an SMTP socket at client and server. Send Email. Here we go your 5%.
