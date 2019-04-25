@@ -10,3 +10,12 @@ Our lecture has make it more interesting by cross using programming languange wh
 I have created both and if you compile and run. Using c to c or java to java or c to java and vice versa is accepted.
 
 {It$_Ju5t_BiNn4rry}
+
+# Second Assignment (Firewall Filter)
+
+When someone can send packet. There must be someone who can monitor it and droping it if condition does not meet.
+Our assignment is to setup a firewall in openBSD using Packet Filter.
+Packet Filter is a software that provide in openBSD to filter certain packet that was set in pf.conf.
+Our rules is to filter ICMP packet. The real life example is ICMP packet is widely used as DoS attack in the system.
+Since , unix itself is standallone server, getting DoS attack by a friend is really not okkay at all.So we've been 
+instruct to drop the ICMP packet and create a C programming DoS software.
