@@ -6,7 +6,10 @@ User just need to run it which specific command to request a certain Oid . The s
 the response from java SNMP manager that managing the server. The ip targeted was local host so there
 is no need for specifiying the ip address.
 
-#SNMP Manager
+
+
+
+# SNMP Manager
 
 Coded in JAVA environment runtime , it is and simple SNMPD software where it will manage the server and by receiveing the Oid Requested
 from the agent. The rules or configuration has been pre configure in the coding. 
